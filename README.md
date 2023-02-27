@@ -1,4 +1,4 @@
-![Why Git](35x45.JPG "Why Git")
+![Why Git](git.jpg "Why Git")
 
 # About me
 
