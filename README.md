@@ -31,9 +31,9 @@ Official websites: <a href="#" target="_blank">Ajaypalsingh/Linkedin</a> | <a hr
 ### My stats
 
 <a href="https://github.com/ajeypalsingh">
-  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=ajeypalsingh&theme=vue&show_icons=true" alt="My GitHub stats" />
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=ajeypalsingh&theme=vue&show_icons=true" alt="My GitHub stats" />
 </a>
 <a href="https://github.com/ajeypalsingh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeypalsingh&theme=vue&hide=Ruby&show_icons=true&langs_count=3" alt="My 
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeypalsingh&theme=vue&hide=Ruby&show_icons=true&langs_count=3" alt="My 
   GitHub stats"/>
 </a>
