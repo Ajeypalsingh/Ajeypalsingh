@@ -1,16 +1,18 @@
-### Hi there 👋
+![Why Git](assets/whygit.png "Why Git")
 
-<!--
-**Ajeypalsingh/Ajeypalsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+Hello world. I'm Andre Specht, an IT instructor and full-stack developer based
+in Winnipeg, Canada.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate developer focused on crafting beautiful and functional 
+websites. I also love teaching and helping others to turn ideas into amazing 
+interactive applications.
+
+My programming experience includes JavaScript, Node, TypeScript, React,
+C#, Java, and Python. Do you wanna know more? Get in touch. I look forward to
+hearing from you.
+
+Official websites: <a href="https://andrespecht.com/" target="_blank">andrespecht.com</a> | <a href="https://andrespecht.dev/" target="_blank">andrespecht.dev</a>
+
+##
