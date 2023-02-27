@@ -1,6 +1,6 @@
 ![Why Git](35x45.JPG "Why Git")
 
-## About me
+# About me
 
 Hello world. I'm Andre Specht, an IT instructor and full-stack developer based
 in Winnipeg, Canada.
