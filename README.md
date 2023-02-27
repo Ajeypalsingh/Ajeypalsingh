@@ -1,4 +1,4 @@
-![cover-image](SUV4.gif "Why Git")
+![cover-image](git-cover.jpg "Git-cover")
 
 # About me
 
