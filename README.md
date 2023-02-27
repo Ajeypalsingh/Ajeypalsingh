@@ -25,7 +25,5 @@ Official websites: <a href="#" target="_blank">Ajaypalsingh/Linkedin</a> | <a hr
 ![](https://img.shields.io/badge/code-java-informational?style=for-the-badge&logo=java&logoColor=white&color=51be8d)
 ![](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=51be8d)
 ![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=51be8d)
-![](https://img.shields.io/badge/db-mysql-informational?style=for-the-badge&logo=mysql&logoColor=white&color=51be8d)
-![](https://img.shields.io/badge/db-firebase-informational?style=for-the-badge&logo=firebase&logoColor=white&color=51be8d)
 
 ##
