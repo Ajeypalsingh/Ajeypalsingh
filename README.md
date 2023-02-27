@@ -19,7 +19,7 @@ Official websites: <a href="#" target="_blank">Ajaypalsingh/Linkedin</a> | <a hr
 ##
 ##
 
-### My skills
+# My skills
 
 ![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=51be8d)
 ![](https://img.shields.io/badge/code-node-informational?style=for-the-badge&logo=javascript&logoColor=white&color=51be8d)
@@ -31,7 +31,7 @@ Official websites: <a href="#" target="_blank">Ajaypalsingh/Linkedin</a> | <a hr
 
 ##
 
-### My stats
+# My stats
 
 <a href="https://github.com/ajeypalsingh">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=ajeypalsingh&theme=vue&show_icons=true" alt="My GitHub stats" />
