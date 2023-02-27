@@ -6,8 +6,9 @@ Hello world. I'm Ajaypal Singh, a student at MITT Winnipeg. Learning
 some skills to do something extraordinary things.
 
 I'm a passionate developer learning to create fully functional websites and softwares 
-that make people's life easy.Feel free to browse my repositories and projects, and don't
+that make people's life easy. Feel free to browse my repositories and projects, and don't
 hesitate to contact me if you have any questions or would like to collaborate on a project.
+
 Thank you for visiting my profile, and I look forward to connecting with you!
 
 
