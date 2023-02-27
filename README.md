@@ -2,8 +2,8 @@
 
 # About me
 
-Hello world. I'm Andre Specht, an IT instructor and full-stack developer based
-in Winnipeg, Canada.
+Hello world. I'm Ajaypal Singh, a student at MITT Winnipeg. Learning 
+some skills to do something extraordinary things.
 
 I'm a passionate developer focused on crafting beautiful and functional 
 websites. I also love teaching and helping others to turn ideas into amazing 
