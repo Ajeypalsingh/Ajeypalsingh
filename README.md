@@ -27,3 +27,13 @@ Official websites: <a href="#" target="_blank">Ajaypalsingh/Linkedin</a> | <a hr
 ![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=51be8d)
 
 ##
+
+### My stats
+
+<a href="https://github.com/mrspecht">
+  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=mrspecht&theme=vue&show_icons=true" alt="My GitHub stats" />
+</a>
+<a href="https://github.com/mrspecht">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrespecht&theme=vue&hide=Ruby&show_icons=true&langs_count=3" alt="My 
+  GitHub stats"/>
+</a>
