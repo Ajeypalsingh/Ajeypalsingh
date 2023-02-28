@@ -1,4 +1,4 @@
-![cover-image](git-cover.png height = '200px' "Git-cover")
+![cover-image](git-cover.png "Git-cover")
 
 # About me
 
