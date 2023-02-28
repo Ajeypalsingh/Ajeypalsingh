@@ -14,7 +14,7 @@ Thank you for visiting my profile, and I look forward to connecting with you!
 
 My programming experience includes JavaScript, Node, HTML, CSS. Do you wanna know more?
 
-Official websites: <a href="#" target="_blank">Ajaypalsingh/Linkedin</a> | <a href="#" target="_blank">ajeypal.dev</a>
+Official websites: <a href="#" target="_blank">Ajaypalsingh/Linkedin</a> | <a href="#" target="_blank">ajeypalsingh.dev</a>
 
 ##
 ##
