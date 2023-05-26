@@ -23,7 +23,7 @@ thanksForVisit();
 
 My programming experience includes JavaScript, Node JS, HTML, CSS, React JS. Do you wanna know more?
 
-Official websites: <a href="https://www.linkedin.com/in/ajaypal-singh-68a06423a/" target="_blank">Ajaypalsingh/Linkedin</a> | <a href="#" target="_blank">ajeypalsingh.dev</a>
+Official handles: <a href="https://www.linkedin.com/in/ajaypal-singh-68a06423a/" target="_blank">Ajaypalsingh/Linkedin</a> | <a href="#" target="_blank">ajeypalsingh.dev</a>
 
 # My skills
 
