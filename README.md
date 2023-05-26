@@ -11,9 +11,7 @@
 #### that make people's life easy. Feel free to browse my repositories and projects, and don't
 #### hesitate to contact me 🙂 if you have any questions or would like to collaborate on a project.
 
-```
-JavaScript
-
+```JavaScript
 function thanksForVisit() {
 if(anyQuery) return feelFreeTocontact();
 if(youLikedMyWork) return myPleasure();
