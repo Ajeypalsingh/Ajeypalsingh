@@ -1,23 +1,30 @@
 ![cover-image](typical.JPG "Git-cover")
 
-# About me
+# 👦 About me
 
-Hello world. I'm Ajaypal Singh, a student at MITT Winnipeg. Learning 
-some skills to do something extraordinary things.
+## Hello world. I'm Ajaypal Singh, a student at MITT Winnipeg. Learning 
+## some skills to do something extraordinary things.
 
-I'm a passionate developer learning to create fully functional websites and softwares 
-that make people's life easy. Feel free to browse my repositories and projects, and don't
-hesitate to contact me if you have any questions or would like to collaborate on a project.
+`😄 You liked cover photo?? Don't say no 😥 I love that.......`
 
-Thank you for visiting my profile, and I look forward to connecting with you!
+#### I'm a passionate developer learning to create fully functional websites and softwares 
+#### that make people's life easy. Feel free to browse my repositories and projects, and don't
+#### hesitate to contact me 🙂 if you have any questions or would like to collaborate on a project.
+
+```
+function thanksForVisit() {
+if(anyQuery) return feelFreeTocontact();
+if(youLikedMyWork) return myPleasure();
+if(anySuggestion) return new Suggestion();
+}
+
+thanksForVisit();
+```
 
 
-My programming experience includes JavaScript, Node, HTML, CSS. Do you wanna know more?
+My programming experience includes JavaScript, Node JS, HTML, CSS, React JS. Do you wanna know more?
 
-Official websites: <a href="#" target="_blank">Ajaypalsingh/Linkedin</a> | <a href="#" target="_blank">ajeypalsingh.dev</a>
-
-##
-##
+Official websites: <a href="https://www.linkedin.com/in/ajaypal-singh-68a06423a/" target="_blank">Ajaypalsingh/Linkedin</a> | <a href="#" target="_blank">ajeypalsingh.dev</a>
 
 # My skills
 
