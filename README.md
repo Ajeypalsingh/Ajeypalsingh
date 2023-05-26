@@ -2,14 +2,11 @@
 
 # 👦 About me
 
-## Hello world. I'm Ajaypal Singh, a student at MITT Winnipeg. Learning 
-## some skills to do something extraordinary things.
+### Hello world. I'm Ajaypal Singh, a student at MITT Winnipeg. Learning  some skills to do something extraordinary things. Started with printing `Hello World` n' now diving deep in the amzing game of codes....
 
 `😄 You liked cover photo?? Don't say no 😥 I love that.......`
 
-#### I'm a passionate developer learning to create fully functional websites and softwares 
-#### that make people's life easy. Feel free to browse my repositories and projects, and don't
-#### hesitate to contact me 🙂 if you have any questions or would like to collaborate on a project.
+### I'm a passionate developer, learning to create fully functional websites and softwares that make people's life easy. Feel free to browse my repositories and give your valuable feedbacks .If you have any query or collaboration opportunity for me, I am always online on [E-mail](mailto:ajeypals7@gmail.com)......
 
 ```JavaScript
 function thanksForVisit() {
@@ -21,7 +18,7 @@ thanksForVisit();
 ```
 
 
-My programming experience includes JavaScript, Node JS, HTML, CSS, React JS. Do you wanna know more?
+I have programming experience in JavaScript, Node JS, HTML, CSS, React JS. Do you wanna know more?
 
 Official handles: <a href="https://www.linkedin.com/in/ajaypal-singh-68a06423a/" target="_blank">Ajaypalsingh/Linkedin</a> | <a href="#" target="_blank">ajeypalsingh.dev</a>
 
