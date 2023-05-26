@@ -12,12 +12,13 @@
 #### hesitate to contact me 🙂 if you have any questions or would like to collaborate on a project.
 
 ```
+JavaScript
+
 function thanksForVisit() {
 if(anyQuery) return feelFreeTocontact();
 if(youLikedMyWork) return myPleasure();
 if(anySuggestion) return new Suggestion();
 }
-
 thanksForVisit();
 ```
 
