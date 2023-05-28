@@ -2,7 +2,7 @@
 
 # 👦 About me
 
-### Hello world. I'm Ajaypal Singh, a student at MITT Winnipeg. Learning  some skills to do something extraordinary things. Started with printing `Hello World` n' now diving deep in the amzing game of codes....
+### Hello world. I'm Ajaypal Singh, a student at MITT Winnipeg. Learning  some skills to do some extraordinary things. Started with printing `Hello World` n' now diving deep in the amzing game of codes....
 
 `You liked cover photo?? Don't say no..... 😥`
 
