@@ -1,6 +1,6 @@
 ![cover-image](typical.JPG "Git-cover")
 
-# 👦 About me
+# About me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 Hello world 👋. I'm Ajaypal Singh,studying at MITT Winnipeg. Started with printing `Hello World` n' now trying to dive deep in the game of codes....
 
