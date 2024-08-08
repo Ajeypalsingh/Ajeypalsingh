@@ -8,18 +8,9 @@ Hello world 👋. I'm Ajaypal Singh,studying at MITT Winnipeg. Started with prin
 
  I'm a passionate developer, learning to create fully functional websites and softwares. Feel free to browse my repositories and give your valuable feedbacks .If you have any query or concern, I am always online on [E-mail](mailto:ajeypals7@gmail.com)......
 
-```JavaScript
-function thanksForVisit() {
-if(anyQuery) return feelFreeTocontact();
-if(youLikedMyWork) return myPleasure();
-if(anySuggestion) return new Suggestion();
-}
-thanksForVisit();
-```
 
 I have programming experience in JavaScript, Node JS, HTML, CSS, React JS. Do you wanna know more?
 
-Official handles: <a href="https://www.linkedin.com/in/ajaypal-singh-68a06423a/" target="_blank">Ajaypalsingh/Linkedin</a> | <a href="#" target="_blank">ajeypalsingh.dev</a>
 
 # My skills
 
